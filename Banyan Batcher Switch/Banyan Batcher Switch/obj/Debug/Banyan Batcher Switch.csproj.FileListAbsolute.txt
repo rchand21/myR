@@ -1,0 +1,10 @@
+c:\users\ramya chandrashekar\source\repos\Banyan Batcher Switch\Banyan Batcher Switch\bin\Debug\Banyan Batcher Switch.exe.config
+c:\users\ramya chandrashekar\source\repos\Banyan Batcher Switch\Banyan Batcher Switch\bin\Debug\Banyan Batcher Switch.exe
+c:\users\ramya chandrashekar\source\repos\Banyan Batcher Switch\Banyan Batcher Switch\bin\Debug\Banyan Batcher Switch.pdb
+c:\users\ramya chandrashekar\source\repos\Banyan Batcher Switch\Banyan Batcher Switch\obj\Debug\Banyan Batcher Switch.csprojResolveAssemblyReference.cache
+c:\users\ramya chandrashekar\source\repos\Banyan Batcher Switch\Banyan Batcher Switch\obj\Debug\Banyan_Batcher_Switch.Properties.Resources.resources
+c:\users\ramya chandrashekar\source\repos\Banyan Batcher Switch\Banyan Batcher Switch\obj\Debug\Banyan Batcher Switch.csproj.GenerateResource.Cache
+c:\users\ramya chandrashekar\source\repos\Banyan Batcher Switch\Banyan Batcher Switch\obj\Debug\Banyan Batcher Switch.csproj.CoreCompileInputs.cache
+c:\users\ramya chandrashekar\source\repos\Banyan Batcher Switch\Banyan Batcher Switch\obj\Debug\Banyan Batcher Switch.exe
+c:\users\ramya chandrashekar\source\repos\Banyan Batcher Switch\Banyan Batcher Switch\obj\Debug\Banyan Batcher Switch.pdb
+c:\users\ramya chandrashekar\source\repos\Banyan Batcher Switch\Banyan Batcher Switch\obj\Debug\Banyan_Batcher_Network.Form1.resources
